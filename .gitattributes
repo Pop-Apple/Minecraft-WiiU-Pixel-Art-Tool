@@ -1,0 +1,2 @@
+# `.gitattributes` Example: `.exe` to C# Classify
+*.exe linguist-language=C#
