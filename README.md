@@ -25,4 +25,10 @@ but if you need it, please get information from [here](https://github.com/Korozi
 
 ## Developer ⬜
 
-|  |  |  |
+<p align="left">
+
+<img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/main/Image%20Icon/MinecraftWiiUCodes.png" width="60px" Height="60px">
+<img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/main/Image%20Icon/Korozin.jpg" width="55px" Height="55px">
+<img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/main/Image%20Icon/Pop-Apple.png" width="50px" Height="50px">
+
+</p>
