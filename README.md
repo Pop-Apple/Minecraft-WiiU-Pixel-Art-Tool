@@ -17,7 +17,12 @@ Two contributors are the main compilers
 If you start the app, you will know how to use it,  
 but if you need it, please get information from [here](https://github.com/Korozin/Minecraft-Wii-U-Pixel-Art-Tool#minecraft-wii-u-pixel-art-tool)
 
+### Movement
+
+> Unknown
+
 ---
 
-## Movement ⬜
+## Developer ⬜
 
+|  |  |  |
