@@ -1,0 +1,2 @@
+# `.gitattributes` Example: `.pxl` to C++ Classify
+*.pxl linguist-language=C++
