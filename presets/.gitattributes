@@ -1,2 +1,2 @@
-# `.gitattributes` Example: `.pxl` to C++ Classify
-*.pxl linguist-language=php
+# `.gitattributes` Example: `.pxl` to C# Classify
+*.pxl linguist-language=C#
