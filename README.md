@@ -11,7 +11,7 @@ Two contributors are the main compilers
 | _First Release_ | MinecraftWiiUCodes |
 | _Second Compile_ | Korozin |
 | _New Release_ | Pop-Apple |
-| _First PullReq_ | SaideLane |
+| _First PullReq_ | SadieLane |
 
 ### More Information 🤍
 
