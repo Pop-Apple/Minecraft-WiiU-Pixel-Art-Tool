@@ -24,7 +24,7 @@ but if you need it, please get information from [here](https://github.com/Korozi
 
 ---
 
-## Developer ⬜
+## Developer & Contributors ⬜
 
 <p align="left">
 
