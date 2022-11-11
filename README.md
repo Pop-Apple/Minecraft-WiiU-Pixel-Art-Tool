@@ -1,8 +1,13 @@
 ## Summary ⚪
-The original creator compiled  
-the next version of [MinecraftWiiUCodes](https://github.com/MinecraftWiiUCodes)  
-by [Korozin](https://github.com/Korozin) to make the UI easier to use and compiled by [Pop-Apple](https://github.com/Pop-Apple)  
-Two contributors are the main compilers
+
+Formerly developed by [MinecraftWiiUCodes](https://github.com/MinecraftWiiUCodes)  
+Compiled by [Korozin](https://github.com/Korozin) v2 has been released  
+I then compiled a whole new version to make the UI a bit clearer.  
+The two main contributors are listed above.  
+
+## Screenshot
+
+<img width="383" alt="Main" src="https://user-images.githubusercontent.com/101918076/201362212-74aacc32-60be-4d31-b53e-2f86c46d3ae3.png">
 
 ---
 
