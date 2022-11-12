@@ -1,4 +1,4 @@
-## Summary ⚪
+## Summary
 
 Formerly developed by [MinecraftWiiUCodes](https://github.com/MinecraftWiiUCodes)  
 Compiled by [Korozin](https://github.com/Korozin) v2 has been released  
@@ -18,7 +18,7 @@ The two main contributors are listed above.
 | _New Release_ | Pop-Apple |
 | _First PullReq_ | SadieLane |
 
-### More Information 🤍
+### More Information
 
 If you start the app, you will know how to use it,  
 but if you need it, please get information from [here](https://github.com/Korozin/Minecraft-Wii-U-Pixel-Art-Tool#minecraft-wii-u-pixel-art-tool)
@@ -33,7 +33,7 @@ but if you need it, please get information from [here](https://github.com/Korozi
 
 ---
 
-## Developer & Contributors ⬜
+## Developer & Contributors
 
 <p align="left">
 
@@ -44,4 +44,6 @@ but if you need it, please get information from [here](https://github.com/Korozi
 
 </p>
 
-### I Love Korozin & MinecraftWiiUCodes
+---
+
+### I Love Korozin & MinecraftWiiUCodes 🤍
