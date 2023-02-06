@@ -1,7 +1,7 @@
 ## Summary
 
-Formerly developed by [MinecraftWiiUCodes](https://github.com/MinecraftWiiUCodes)  
-Compiled by [Korozin](https://github.com/Korozin) v2 has been released  
+The developer is [MinecraftWiiUCodes](https://github.com/MinecraftWiiUCodes)  
+Second version release by [Korozin](https://github.com/Korozin)   
 I then compiled a whole new version to make the UI a bit clearer.  
 The two main contributors are listed above.  
 
@@ -43,7 +43,3 @@ but if you need it, please get information from [here](https://github.com/Korozi
 <img src="https://github.com/Pop-Apple/Minecraft-WiiU-Pixel-Art-Tool/blob/master/Image%20Icon/SadieLane.png" width="45px" Height="45px">
 
 </p>
-
----
-
-### I Love Korozin & MinecraftWiiUCodes 🤍
